@@ -32,7 +32,7 @@ Create an interactive dashboard in Power BI to analyze Walmart sales performance
 6. Applied professional formatting and filters.
 7. ## 📷 Screenshots
    ###  Walmart Sales Dashboard
-![ Walmart Sales Dashboard]()
+![ Walmart Sales Dashboard](https://github.com/Aman050103/TASK_05_DASHBOARD/blob/main/Screenshot%202025-09-09%20212929.png)
 
 ## Key Insights
 - Holiday weeks show a clear increase in sales.
