@@ -30,7 +30,7 @@ Create an interactive dashboard in Power BI to analyze Walmart sales performance
    - Line and column chart for sales vs fuel price.
 5. Added slicers for Date, Store, and Holiday Type.
 6. Applied professional formatting and filters.
-7. ## 📷 Screenshots
+7. ## 📷 Screenshot
    ###  Walmart Sales Dashboard
 ![ Walmart Sales Dashboard](https://github.com/Aman050103/TASK_05_DASHBOARD/blob/main/Screenshot%202025-09-09%20212929.png)
 
